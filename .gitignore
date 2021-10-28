@@ -1,0 +1,6 @@
+aws-iam-authenticator
+eksctl
+kubectl
+undistro
+kubeconfig-*
+credentials-*
